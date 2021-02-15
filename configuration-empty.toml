@@ -1,0 +1,14 @@
+# token of the discord bot
+token = ""
+# command prefix
+prefix = ","
+# displayed in the playing section when clicked on the bot
+playing = ",help | courtier#1305"
+# remove account after this amount of reports
+remove-after-not-working = 3
+# cooldown for generating accounts in seconds
+cooldown-duration = 30
+# admin ids, these people can add/remove accounts, disable and enable the bot
+admins = [
+    "123456789"
+]
